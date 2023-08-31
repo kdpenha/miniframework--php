@@ -12,11 +12,6 @@ class Route extends Bootstrap{
             'controller' => 'indexController',
             'action' => 'index' // qual açao que sera disparada quando a rota for requisitada
         );
-        $routes['sobre_nos'] = array(
-            'route' => '/sobre_nos',
-            'controller' => 'indexController',
-            'action' => 'sobreNos'
-        );
 
         $this->setRoutes($routes);
     }
