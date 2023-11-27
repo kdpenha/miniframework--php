@@ -13,4 +13,6 @@
             "MF\\": "vendor/MF"
         }
     }
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
