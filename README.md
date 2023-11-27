@@ -73,4 +73,4 @@ public function contato() {
             $this->render('contato', 'layout_contato');
         }
 ~~~
-### Seguindo esses passos você já deve conseguir exibir suas páginas 🎉
+Isso fará com que o conteúdo dentro da view `contato` seja renderizado com o layout, head e etc de `layout_contato`
