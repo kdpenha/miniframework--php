@@ -1,5 +1,5 @@
 > # Miniframework
-## Esse miniframework é voltado para pequenos projetos em PHP.
+## Esse miniframework é voltado para pequenos projetos em PHP utilizando padrão MVC.
 > ✨Status: Documentando...
 ### Instalação
 1. Clone o repositório
